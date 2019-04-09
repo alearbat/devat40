@@ -1,2 +1,2 @@
 # devat40
-My blog to become a developer at 40 years old
+My blog . How to become a developer at 40 years old
