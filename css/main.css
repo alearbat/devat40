@@ -19,10 +19,12 @@ h1 {
 h2 {
     margin: 5px 0;
 }
+
 h5 {
     margin: 5px 0;
     color: #707070;
 }
+
 /**header**/
 
 .image-header {
@@ -37,6 +39,7 @@ h5 {
     text-transform: uppercase;
 
 }
+
 .slogan {
         border-bottom: 3px solid #000;
         text-align: center;
@@ -69,6 +72,7 @@ h5 {
     padding: 5px 0;
     height: 10px;
 }
+
 .footer h6 {
     color: white;
     text-align: center;
