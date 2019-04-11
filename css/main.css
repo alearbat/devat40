@@ -21,6 +21,7 @@ h2 {
 }
 h5 {
     margin: 5px 0;
+    color: #707070;
 }
 /**header**/
 
@@ -47,6 +48,29 @@ h5 {
 .blog-entries {
     margin: 40px;
 }
+
+.entry h2 {
+    text-transform: uppercase;
+}
+
 .entry p {
     text-align: justify;
+}
+
+.entry p span {
+    font-weight: bold;
+}
+
+/**footer**/
+
+.footer {
+    margin: 40px;
+    background-color: black;
+    padding: 5px 0;
+    height: 10px;
+}
+.footer h6 {
+    color: white;
+    text-align: center;
+    margin: 0 auto;
 }
