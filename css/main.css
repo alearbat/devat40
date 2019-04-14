@@ -19,7 +19,7 @@ h2 {
     margin: 5px 0;
 }
 
-h5 {
+h3 {
     margin: 5px 0;
     color: #707070;
 }
@@ -57,10 +57,6 @@ h5 {
 
 .entry p {
     text-align: justify;
-}
-
-.entry p span {
-    font-weight: bold;
 }
 
 /**footer**/
